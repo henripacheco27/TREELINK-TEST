@@ -1,0 +1,44 @@
+{
+  "name": "Hudson Pacheco Video Maker",
+  "bio": "Capturando cada instante",
+  "profilePicture": "/hudson.jpg",
+  "url": "https://www.instagram.com/hdpachecos_films/",
+  "blog": true,
+  "iconLinks": [
+    
+    {
+      "id": "1728534577185",
+      "icon": "email",
+      "url": "mailto:hdpachecos@gmail.com"
+    },
+    
+    {
+      "id": "1728534577187",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/hdpachecos_films/"
+    }
+  ],
+  "customLinks": [
+    {
+      "id": "1728534585738",
+      "title": "Eu fiz uns vídeos aqui",
+      "url": "https://www.youtube.com/@hudsonpacheco316"
+    },
+    {
+      "id": "1728534585739",
+      "title": "Meu Portfólio de Fotos📷",
+      "url": "https://drive.google.com/file/d/11fOC88jYeuQL1c-jcKsTTLOKxLKRCTY_/view?usp=drive_link"
+    },
+    {
+      "id": "1728534585740",
+      "title": "Meu Portfólio de Vídeos📹",
+      "url": "https://drive.google.com/file/d/1TYbdB1NcQCaW50wS1rHlh9RpgA5bRPOX/view?usp=drive_link"
+    },
+    
+    {
+      "id": "1728534585742",
+      "title": "Aceito bitcoins também",
+      "url": "https://bitcoin.org/en/"
+    }
+  ]
+}
